@@ -5,11 +5,13 @@ Document your project development here, as well as the final project outcome. Fo
 
 ## Concept
 ## Implementation
+
 - #### CAD
 - #### 3D Printing
 - #### Laser Cutting
 - #### Electronics
 - #### Programming
+
 ## Testing
 ## Results
 ## Conclusion
