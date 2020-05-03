@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Final Project
 Summary project for the Digital Fabrication & Prototyping Fundamentals module
 

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Home
 
 ## Hello, new student!
