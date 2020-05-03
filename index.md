@@ -18,7 +18,7 @@ No worries, you can't break anything, all the changes you make are saved under [
 ## In short
 
 - This website is built automatically by github every time you edit the files in the docs folder
-- It does so thanks to [jekyl](https://jekyllrb.com/) a static site generator written in Ruby
+- It does so thanks to [jekyll](https://jekyllrb.com/) a static site generator written in Ruby
 - You must start customizing the file `_config.yml` with your information
 - You can change the looks of your website using jekyll themes, you can find in the `_config.yml` the options for the [panthera-jekyll theme](https://github.com/christianezeani/panthera-jekyll)
 - If you want to start from scratch, you can delete everything (using [git-rm](https://git-scm.com/docs/git-rm)) in this repository and push any other static website
