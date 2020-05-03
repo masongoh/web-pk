@@ -8,8 +8,8 @@ defaults:
 
 title: Your Name Website
 subtitle: Digital Fab & Prototyping Fundamentals
-theme: panthera-jekyll
-# remote-theme: christianezeani/panthera-jekyll
+# theme: panthera-jekyll
+remote-theme: christianezeani/panthera-jekyll
 
 # Side Menu Links
 menu:
