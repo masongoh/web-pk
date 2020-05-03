@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Inde monte referunt consuetas remotam
 
 ## Pugno iterabat captat humo
