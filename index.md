@@ -2,7 +2,7 @@
 
 ## Hello, new student!
 
-![](docs/images/week01/assignment-photo.jpg)
+![](docs/images/week01/assignment-photo.jpg){: width="100%"}
 
 ## Welcome to your new EP1000 website
 
