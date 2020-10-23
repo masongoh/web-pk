@@ -6,7 +6,7 @@ defaults:
     values:
       layout: default
 
-title: Your Name Website
+title: Mason Website
 subtitle: Digital Fab & Prototyping Fundamentals
 baseurl: "/web-pk"  # the subpath of your site, e.g. /blog
 # theme: panthera-jekyll
@@ -22,39 +22,43 @@ menu:
     link: /about.html
     icon: ""
 
-  - text: Fablab Safety
-    link: /docs/safety.html
+  - text: Electronics production
+    link: /docs/electronicsprod.html
     icon: ""
 
-  - text: Project Management
-    link: /docs/proj-mgmt.html
+  - text: Electronics design
+    link: /docs/electronicsdesign.html
     icon: ""
 
-  - text: Web Development
-    link: /docs/web.html
+  - text: Embedded programming
+    link: /docs/programming.html
     icon: ""
 
-  - text: Computer Aided Design
-    link: /docs/cad.html
+  - text: 2D computer controlled machining
+    link: /docs/2Dmachine.html
     icon: ""
 
-  - text: Embedded Programming
-    link: /docs/embedded.html
+  - text: 3D machining
+    link: /docs/3Dmachine.html
     icon: ""
 
-  - text: 3D Printing
-    link: /docs/3dprint.html
+  - text: Molding & Casting
+    link: /docs/Molding.html
     icon: ""
 
-  - text: Laser Cutting
-    link: /docs/laser.html
+  - text: Interface & Applications Programming
+    link: /docs/Interface.html
     icon: ""
 
-  - text: Final Project
+  - text: Introduction to IOT
+    link: /docs/IOT.html
+    icon: ""
+ 
+  - text: Final project 
     link: /docs/project.html
     icon: ""
-
-  - text: Contact
+ 
+ - text: Contact
     link: /contact.html
     icon: ""
 
